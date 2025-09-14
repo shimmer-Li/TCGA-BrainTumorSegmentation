@@ -70,7 +70,7 @@ python view.py
 
 下面展示了该模型在 TCGA 脑 MRI 数据集上的分割效果：
 
-![分割结果示意图](images/segmentation_result.png)
+![分割结果示意图](MRIproject-git/images/segmentation_result.png)
 
 图中：
 - 左边为原始 MRI 图像
