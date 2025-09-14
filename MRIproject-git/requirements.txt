@@ -1,0 +1,17 @@
+# Core
+torch==2.1.0
+torchvision==0.16.0
+torchaudio==2.1.0
+
+# Data processing
+numpy==1.23.5
+pillow==9.5.0
+opencv-python==4.8.0.74
+
+# Utils
+matplotlib==3.7.1
+tensorboard==2.20.0
+
+# 安全起见，scipy 和 tqdm 也常用
+scipy==1.10.1
+tqdm==4.65.0
